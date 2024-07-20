@@ -1,37 +1,29 @@
 class Solution {
 public:
-    vector<int> luckyNumbers(vector<vector<int>>& matrix) {
-        int N = matrix.size(), M = matrix[0].size();
-
-        vector<int> rowMin;
-        for (int i = 0; i < N; i++) {
-
-            int rMin = INT_MAX;
-            for (int j = 0; j < M; j++) {
-                rMin = min(rMin, matrix[i][j]);
+    vector<int> luckyNumbers (vector<vector<int>>& matrix) {
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        
+        vector<int> row_minimums(rows, INT_MAX);
+        vector<int> col_maximums(cols, 0);
+        
+        for (int row_ind = 0; row_ind < rows; ++row_ind) {
+            for (int col_ind = 0; col_ind < cols; ++col_ind) {
+                int el = matrix[row_ind][col_ind];
+                row_minimums[row_ind] = min(row_minimums[row_ind], el);
+                col_maximums[col_ind] = max(col_maximums[col_ind], el);
             }
-            rowMin.push_back(rMin);
         }
-
-        vector<int> colMax;
-        for (int i = 0; i < M; i++) {
-
-            int cMax = INT_MIN;
-            for (int j = 0; j < N; j++) {
-                cMax = max(cMax, matrix[j][i]);
-            }
-            colMax.push_back(cMax);
-        }
-
-        vector<int> luckyNumbers;
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                if (matrix[i][j] == rowMin[i] && matrix[i][j] == colMax[j]) {
-                    luckyNumbers.push_back(matrix[i][j]);
+        
+        for (int row_ind = 0; row_ind < rows; ++row_ind) {
+            for (int col_ind = 0; col_ind < cols; ++col_ind) {
+                int el = matrix[row_ind][col_ind];
+                if (el == row_minimums[row_ind] && el == col_maximums[col_ind]) {
+                    return {el};
                 }
             }
         }
-
-        return luckyNumbers;
+        
+        return {};
     }
 };
