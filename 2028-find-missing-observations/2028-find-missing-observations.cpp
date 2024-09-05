@@ -23,7 +23,7 @@ public:
             return vv;
         }
         int num = left/n;
-        if(num*n <left && num==6) return vv;
+        // if(num*n <left && num==6) return vv;
         for(int i=0;i<n;i++){
             v[i]=num;
         }
