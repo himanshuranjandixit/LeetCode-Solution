@@ -17,7 +17,7 @@ public:
         int l=left(root->left);
         int r=left(root->right);
         ans=max(ans,l+r);
-        return (1+ max(l,r));
+        return (1+max(l,r));
     }
     int diameterOfBinaryTree(TreeNode* root) {
         left(root);
