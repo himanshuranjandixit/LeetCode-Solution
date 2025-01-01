@@ -11,8 +11,8 @@ public:
 
         int ans=0;
         int cnt=0;
-        for(auto it : s){
-            if (it=='0'){
+        for(int i=0;i<s.size()-1;i++){
+            if (s[i]=='0'){
                 cnt++;
                 ans=max(ans,sum+cnt);
                 
@@ -22,7 +22,6 @@ public:
                 ans=max(ans,sum+cnt);
             }
         }
-
         return ans;
         
     }
