@@ -7,7 +7,7 @@ class Solution:
             if it[0] in mpp1:
                 mpp2[mpp1[it[0]]]-=1
                 if mpp2[mpp1[it[0]]]==0:
-                    mpp2.pop(mpp1[it[0]])
+                   del mpp2[mpp1[it[0]]]
             mpp1[it[0]]=it[1]
             if mpp1[it[0]] in mpp2 :
                 mpp2[mpp1[it[0]]]+=1
