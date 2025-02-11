@@ -5,7 +5,7 @@ public:
         int len=part.size();
         while(i<s.size()){
             if(s.substr(i,len)==part){
-                s.erase(i,len);
+                s=s.erase(i,len);
                 i=0;
                 continue;
             }
