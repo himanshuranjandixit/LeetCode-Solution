@@ -9,7 +9,6 @@ public:
                 grid[i][j]=gridd[i][j];
             }
         }
-        
         while(find){
             count++;
             find=false;
@@ -89,6 +88,5 @@ public:
             }
         }
         return count-1;
-        
     }
 };
