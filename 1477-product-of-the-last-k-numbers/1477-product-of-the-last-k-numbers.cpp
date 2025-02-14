@@ -12,6 +12,7 @@ public:
     
     int getProduct(int k) {
         int ans=1;
+        if(k>v.size()) return 0;
         int i=v.size()-1;
         while(k>0){
             ans*=v[i];
