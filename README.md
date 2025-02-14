@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
