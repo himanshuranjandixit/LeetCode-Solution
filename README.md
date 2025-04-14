@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -231,5 +232,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
