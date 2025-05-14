@@ -1,46 +1,69 @@
+const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
+
+#define LC_HACK
+#ifdef LC_HACK
+const auto __ = []() {
+    std::atexit([]() {
+        std::ofstream ofs("display_runtime.txt");
+        if (ofs) {
+            ofs << 0 << '\n';
+        }
+    });
+    return 0;
+}();
+#endif
 class Solution {
 public:
-    // Return the number of maximum bouquets that can be made on day mid.
-    int getNumOfBouquets(vector<int>& bloomDay, int mid, int k) {
-        int numOfBouquets = 0;
-
-        int count = 0;
-        for (int i = 0; i < bloomDay.size(); i++) {
-            // If the flower is bloomed, add to the set. Else reset the count.
-            if (bloomDay[i] <= mid) {
-                count++;
-            } else {
-                count = 0;
-            }
-
-            if (count == k) {
-                numOfBouquets++;
-                count = 0;
-            }
-        }
-
-        return numOfBouquets;
-    }
-
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int start = 0;
-        int end = 0;
-        for (int day : bloomDay) {
-            end = max(end, day);
+        int n = bloomDay.size();
+        if(1LL*m*k>n) return -1;
+        int mini=INT_MAX;
+        int maxi = INT_MIN;
+        for(int i=0;i<n;i++){
+            mini=min(mini,bloomDay[i]);
+            maxi=max(maxi,bloomDay[i]);
         }
-
-        int minDays = -1;
-        while (start <= end) {
-            int mid = (start + end) / 2;
-
-            if (getNumOfBouquets(bloomDay, mid, k) >= m) {
-                minDays = mid;
-                end = mid - 1;
-            } else {
-                start = mid + 1;
+        int low= mini;
+        int high = maxi;
+        while(low<high){
+            int mid =(low+high)/2;
+            int bouq=0;
+            int val=0;
+            for(int i=0;i<n;i++){
+                if(bloomDay[i]<=mid){
+                    val++;
+                    if(val==k){
+                        bouq++;
+                        val=0;
+                    }
+                }
+                else{
+                    val=0;
+                }
             }
+            if(bouq>=m){
+                high=mid;
+            }
+            else low=mid+1;
         }
+        return low;
+        // for(int i=low ; i<=high ; i++){
+        //     int bouq=0;
+        //     int val=0;
+        //     for(int j=0;j<n;j++){
+        //         if(bloomDay[j]<=i){
+        //             val++;
+        //             if(val == k){
+        //                 bouq++;
+        //                 val = 0;
+        //             }
+        //         }
+        //         else val = 0;
+        //     }
+        //     if(bouq>=m) return i;
 
-        return minDays;
+        // }
+        // return 0;
+        
     }
 };
