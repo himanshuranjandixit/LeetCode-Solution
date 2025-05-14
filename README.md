@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
