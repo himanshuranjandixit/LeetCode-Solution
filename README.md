@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
