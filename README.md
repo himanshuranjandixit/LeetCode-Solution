@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1170-shortest-common-supersequence) |
@@ -282,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
