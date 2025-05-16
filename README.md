@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0050-powx-n) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
