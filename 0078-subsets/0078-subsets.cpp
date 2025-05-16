@@ -14,6 +14,7 @@ public:
         vector<vector<int>>ans;
         vector<int>v;
         dp(nums,v,0,ans);
+        reverse(ans.begin(),ans.end());
         return ans;
         
     }
