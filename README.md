@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
