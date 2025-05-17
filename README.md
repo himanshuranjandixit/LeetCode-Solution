@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
