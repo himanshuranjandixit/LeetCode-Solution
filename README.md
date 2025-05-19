@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
