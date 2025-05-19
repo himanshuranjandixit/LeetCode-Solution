@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1078-remove-outermost-parentheses) |
