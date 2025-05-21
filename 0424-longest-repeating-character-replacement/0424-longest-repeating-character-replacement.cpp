@@ -15,7 +15,7 @@ public:
                 // for(auto it:mpp) maxfreq=max(maxfreq,it.second);
                 l++;
             }
-            else ans=max(ans,r-l+1);
+            ans=max(ans,r-l+1);
             r++;
         }
         return ans;
