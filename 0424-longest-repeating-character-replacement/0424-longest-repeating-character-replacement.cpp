@@ -9,13 +9,13 @@ public:
         while(r<s.size()){
             mpp[s[r]-'A']++;
             maxfreq=max(maxfreq,mpp[s[r]-'A']);
-            while((r-l+1)-maxfreq>k){
+            if((r-l+1)-maxfreq>k){
                 mpp[s[l]-'A']--;
-                maxfreq=0;
-                for(auto it:mpp) maxfreq=max(maxfreq,it.second);
+                // maxfreq=0;
+                // for(auto it:mpp) maxfreq=max(maxfreq,it.second);
                 l++;
             }
-            ans=max(ans,r-l+1);
+            else ans=max(ans,r-l+1);
             r++;
         }
         return ans;
