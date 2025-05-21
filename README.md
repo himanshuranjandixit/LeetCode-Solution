@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0079-word-search) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
