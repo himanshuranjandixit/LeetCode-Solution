@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
