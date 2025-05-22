@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
