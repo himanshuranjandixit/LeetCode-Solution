@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
