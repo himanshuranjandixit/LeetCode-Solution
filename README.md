@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 ## Depth-First Search
 |  |
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
+| [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
