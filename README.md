@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
 |  |
