@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
