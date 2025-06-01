@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -626,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
