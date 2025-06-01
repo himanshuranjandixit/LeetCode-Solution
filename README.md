@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -521,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
