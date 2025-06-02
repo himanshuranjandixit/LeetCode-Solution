@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
