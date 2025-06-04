@@ -15,6 +15,5 @@ public:
         sort(ans.begin(),ans.end());
         return ans[ans.size()-1];
 
-        
     }
 };
