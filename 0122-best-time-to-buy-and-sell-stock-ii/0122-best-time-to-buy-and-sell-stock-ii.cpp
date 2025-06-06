@@ -13,8 +13,18 @@ public:
         return dp[indx][buy] = profit;
     }
     int maxProfit(vector<int>& prices) {
-        vector<vector<int>>dp(prices.size()+1,vector<int>(2,-1));
-        return solve(prices,0,1,dp);
+        vector<vector<int>>dp(prices.size()+1,vector<int>(2,0));
+        dp[prices.size()][0]=dp[prices.size()][1]=0;
+        for(int indx=prices.size()-1;indx>=0;indx--){
+            for(int buy=0;buy<2;buy++){
+                if(buy){
+                    profit = max(-prices[indx] + dp[indx+1][0], dp[indx+1][1]);
+                }
+                else profit = max(prices[indx] + dp[indx+1][1],dp[indx+1][0]);
+                dp[indx][buy]=profit;
+            }
+        }
+        return profit;
         
         
     }
