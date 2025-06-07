@@ -21,15 +21,26 @@ public:
         sort(words.begin(),words.end(),[](const string& a, const string& b){
             return a.size()<b.size();
         });
-        vector<int>dp(words.size()+1,1);
+        // vector<int>dp(words.size()+1,1);
+        // int ans=1;
+        // for(int i=1;i<words.size();i++){
+        //     for(int j=0;j<i;j++){
+        //         if(compare(words[i],words[j]) && dp[j]+1 > dp[i]){
+        //             dp[i]=dp[j]+1;
+        //         }
+        //     }
+        //     ans=max(ans,dp[i]);
+        // }
+        // return ans;
+        unordered_map<string,int>dp;
         int ans=1;
-        for(int i=1;i<words.size();i++){
-            for(int j=0;j<i;j++){
-                if(compare(words[i],words[j]) && dp[j]+1 > dp[i]){
-                    dp[i]=dp[j]+1;
-                }
+        for(auto word : words){
+            dp[word]=1;
+            for(int i=0;i<word.size();i++){
+                string temp = word.substr(0,i) + word.substr(i+1);
+                dp[word]=max(dp[temp]+1,dp[word]);
             }
-            ans=max(ans,dp[i]);
+            ans=max(ans,dp[word]);
         }
         return ans;
     }
