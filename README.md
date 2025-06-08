@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
