@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
