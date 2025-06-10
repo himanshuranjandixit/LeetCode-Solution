@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0072-edit-distance) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
 ## Bucket Sort
