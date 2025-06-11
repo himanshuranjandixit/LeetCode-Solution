@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -549,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -590,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
