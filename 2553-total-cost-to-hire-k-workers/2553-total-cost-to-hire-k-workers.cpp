@@ -18,7 +18,10 @@ public:
         while(k--){
             if(right.empty() || (!left.empty() && left.top()<=right.top())){
                 ans += left.top(); left.pop();
-                if(l<=r) left.push(costs[l++]);
+                if(l<=r){
+                    left.push(costs[l]);
+                    l++;
+                }
             }
             else{
                 ans+=right.top();
