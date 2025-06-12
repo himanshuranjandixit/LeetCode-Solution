@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -363,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -573,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
