@@ -6,14 +6,14 @@ public:
         int startrow = entrance[0];
         int startcol = entrance[1];
         vector<vector<int>>visited(n,vector<int>(m,0));
-        queue<pair<int,pair<int,int>>>pq;
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<>>pq;
         pq.push({0,{startrow,startcol}});
         bool start =true;
         visited[startrow][startcol] =1;
         while(!pq.empty()){
-            int currRow = pq.front().second.first;
-            int currCol = pq.front().second.second;
-            int step = pq.front().first;
+            int currRow = pq.top().second.first;
+            int currCol = pq.top().second.second;
+            int step = pq.top().first;
             pq.pop();
             if(maze[currRow][currCol] =='.' && (currRow==0 || currRow==n-1 ||currCol ==0 || currCol == m-1) && !start) return step;
             start = false;
