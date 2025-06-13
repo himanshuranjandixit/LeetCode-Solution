@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0871-keys-and-rooms) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0871-keys-and-rooms) |
@@ -650,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0216-combination-sum-iii) |
+| [0813-all-paths-from-source-to-target](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
