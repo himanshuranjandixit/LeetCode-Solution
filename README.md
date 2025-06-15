@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
