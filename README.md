@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -1022,4 +1025,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 <!---LeetCode Topics End-->
