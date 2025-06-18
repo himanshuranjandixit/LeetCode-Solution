@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0854-making-a-large-island](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
+| [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1121-partition-array-for-maximum-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
+| [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1003,4 +1006,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
