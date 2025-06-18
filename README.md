@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1170-shortest-common-supersequence) |
+| [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1010,4 +1014,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
