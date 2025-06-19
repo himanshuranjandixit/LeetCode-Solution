@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
