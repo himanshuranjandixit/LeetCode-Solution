@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
