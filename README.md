@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -613,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -724,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -790,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
