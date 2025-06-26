@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Queue
 |  |
 | ------- |
