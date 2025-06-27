@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
