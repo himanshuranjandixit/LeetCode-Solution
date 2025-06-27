@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 ## Graph
 |  |
 | ------- |
@@ -628,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 ## Math
 |  |
 | ------- |
@@ -737,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -847,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
