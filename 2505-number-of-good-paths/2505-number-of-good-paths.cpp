@@ -40,7 +40,7 @@ public:
             for(auto node : it.second){
                 active[node]=true;
                 for(auto child : adj[node]){
-                    if(active[child] && vals[child]<=vals[node]) Union(child,node);
+                    if(active[child]) Union(child,node);
                 }
             }
             unordered_map<int,int>par;
