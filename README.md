@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -1004,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
