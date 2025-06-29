@@ -15,7 +15,6 @@ public:
                 v.pop_back();
                 vis[i]=0;
             }
-            solve(nums,indx+1,v,vis);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
