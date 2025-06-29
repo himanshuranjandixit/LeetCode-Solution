@@ -813,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
