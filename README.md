@@ -1005,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Memoization
