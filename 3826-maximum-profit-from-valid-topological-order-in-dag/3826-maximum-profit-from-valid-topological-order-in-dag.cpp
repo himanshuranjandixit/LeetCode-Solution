@@ -2,12 +2,14 @@ class Solution {
 public:
     int n;
     vector<int> score;
-    vector<int> prereq; 
+    vector<int> prereq;
     unordered_map<int, int> memo;
 
     int dfs(int mask, int pos) {
-        if (mask == (1 << n) - 1) return 0;
-        if (memo.count(mask)) return memo[mask];
+        if (mask == (1 << n) - 1)
+            return 0;
+        if (memo.count(mask))
+            return memo[mask];
         int maxProfit = LLONG_MIN;
         for (int i = 0; i < n; i++) {
             if ((mask & (1 << i)) == 0) {
@@ -21,26 +23,23 @@ public:
     }
 
     int maxProfit(int _n, vector<vector<int>>& edges, vector<int>& _score) {
-        if(edges.empty()){
-            sort(_score.begin(),_score.end());
-            int ans=0;
-            for(int i=0;i<_n;i++){
-                ans += _score[i]*(i+1);
+        if (edges.empty()) {
+            sort(_score.begin(), _score.end());
+            int ans = 0;
+            for (int i = 0; i < _n; i++) {
+                ans += _score[i] * (i + 1);
             }
-            return ans ;
+            return ans;
         }
-
-
-        n= _n;
-        score=_score;
+        n = _n;
+        score = _score;
         prereq.assign(n, 0);
         memo.clear();
-        for (auto &e : edges) {
+        for (auto& e : edges) {
             int u = e[0], v = e[1];
             prereq[v] |= (1 << u);
         }
 
         return dfs(0, 1);
     }
-
 };
