@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
@@ -1040,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
