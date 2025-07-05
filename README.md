@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
