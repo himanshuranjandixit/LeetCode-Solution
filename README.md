@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -685,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -715,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1222,4 +1227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
