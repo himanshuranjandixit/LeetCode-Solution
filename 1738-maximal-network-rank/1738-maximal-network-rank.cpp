@@ -9,9 +9,8 @@ public:
             st.insert({it[0],it[1]});
         }
         int ans=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i==j) continue;
+        for(int i=0;i<n-1;i++){
+            for(int j=i+1;j<n;j++){
                 int val = adj[i].size() + adj[j].size();
                 if(st.count({i,j}) || st.count({j,i})) val--;
                 ans=max(ans,val);
