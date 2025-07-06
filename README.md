@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
