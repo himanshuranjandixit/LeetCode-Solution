@@ -659,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2121-find-if-path-exists-in-graph) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
@@ -1239,4 +1242,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
