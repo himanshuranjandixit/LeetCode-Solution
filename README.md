@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -806,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
@@ -1053,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
