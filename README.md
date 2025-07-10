@@ -571,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0754-cracking-the-safe) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0754-cracking-the-safe) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0813-all-paths-from-source-to-target) |
@@ -1288,5 +1290,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+| [0754-cracking-the-safe](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
