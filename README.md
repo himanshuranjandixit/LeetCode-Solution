@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
@@ -845,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
+| [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1044,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
