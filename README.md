@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0871-keys-and-rooms) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0871-keys-and-rooms) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0922-possible-bipartition](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1300-critical-connections-in-a-network) |
@@ -1115,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
@@ -1266,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Game Theory
