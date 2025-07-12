@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -745,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-longest-cycle-in-a-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Math
 |  |
@@ -1224,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Biconnected Component
 |  |
 | ------- |
