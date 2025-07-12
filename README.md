@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1157,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Queue
 |  |
