@@ -547,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Math
 |  |
@@ -1102,6 +1104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1151,6 +1154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1239,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Biconnected Component
 |  |
 | ------- |
