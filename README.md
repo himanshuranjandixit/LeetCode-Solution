@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2176-parallel-courses-iii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
