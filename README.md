@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Ordered Set
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -693,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-longest-cycle-in-a-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
@@ -773,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Math
 |  |
@@ -1264,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
 ## Biconnected Component
 |  |
 | ------- |
