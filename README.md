@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
@@ -1285,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
@@ -1364,4 +1367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0754-cracking-the-safe](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2201-valid-arrangement-of-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
