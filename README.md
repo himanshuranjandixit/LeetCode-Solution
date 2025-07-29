@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1137,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1206,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
@@ -1260,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Segment Tree
