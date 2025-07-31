@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-sum-of-distances-in-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1121-partition-array-for-maximum-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
@@ -1210,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
