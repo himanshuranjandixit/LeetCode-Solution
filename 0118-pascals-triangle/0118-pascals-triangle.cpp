@@ -1,14 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int n) {
+    vector<vector<int>> generate(int numRows) {
         vector<vector<int>>ans;
-        for(int i=0;i<n;i++){
-            vector<int>v(i+1,1);
-            for(int j=1;j< i;j++){
-                int m=ans[i-1][j-1] + ans[i-1][j];
-                v[j]=m;
+        while(numRows--){
+            vector<int>temp;
+            temp.push_back(1);
+            if(ans.size()==0){
+                ans.push_back(temp);
+                continue;
             }
-            ans.emplace_back(v);
+            for(int i=0;i<ans[ans.size()-1].size()-1;i++){
+                int add = ans[ans.size()-1][i]+ans[ans.size()-1][i+1];
+                temp.push_back(add);
+            }
+            temp.push_back(1);
+            ans.push_back(temp);
+            temp.clear();
         }
         return ans;
         
