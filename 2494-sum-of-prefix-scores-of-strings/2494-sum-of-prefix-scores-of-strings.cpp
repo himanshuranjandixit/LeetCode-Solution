@@ -24,8 +24,8 @@ class Trie{
             if(!node->contains(s[i])){
                 node->put(s[i],new Node());
             }
+            node->links[s[i]-'a']->count++;
             node = node->get(s[i]);
-            node->count++;
         }  
     }
     int score(string& s){
@@ -33,8 +33,8 @@ class Trie{
         int ans =0;
         for(int i=0;i<s.size();i++){
             if(!node->contains(s[i])) return ans;
+            ans+=node->links[s[i]-'a']->count;
             node = node->get(s[i]);
-            ans+=node->count;
         }
         return ans;
     }
