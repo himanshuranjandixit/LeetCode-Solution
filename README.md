@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -980,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
@@ -1168,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1297,6 +1300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
