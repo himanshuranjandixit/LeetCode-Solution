@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1189,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1325,6 +1328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
