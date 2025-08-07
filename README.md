@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Hash Table
 |  |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sorting
 |  |
 | ------- |
