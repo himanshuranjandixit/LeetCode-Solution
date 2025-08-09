@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
@@ -1249,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
