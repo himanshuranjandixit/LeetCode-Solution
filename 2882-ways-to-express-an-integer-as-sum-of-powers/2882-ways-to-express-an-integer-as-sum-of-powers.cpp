@@ -3,7 +3,7 @@ public:
 int cnt =0;
 int m = 1e9 +7;
 int N;
-int memo[301][305];
+int memo[301][301];
     int solve(int n , int x, long long sum){
         if(sum==N) return 1;
         if(sum>N) return 0;
