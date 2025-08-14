@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0547-number-of-provinces) |
@@ -928,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
