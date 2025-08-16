@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
@@ -865,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
