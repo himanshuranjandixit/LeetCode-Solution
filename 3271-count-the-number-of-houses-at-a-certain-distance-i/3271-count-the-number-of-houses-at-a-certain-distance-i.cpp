@@ -6,8 +6,8 @@ public:
             adj[i][i+1]=1;
             adj[i+1][i]=1;
         }
-        adj[x-1][y-1] =min(adj[x-1][y-1],1);
-        adj[y-1][x-1] =min(adj[x-1][y-1],1);
+        adj[x-1][y-1] =1;
+        adj[y-1][x-1] =1;
         // cout<<adj[x-1][y-1]<<endl;
         // cout<<adj[y-1][x-1]<<endl;
         // if(abs(x-y)!=1){
