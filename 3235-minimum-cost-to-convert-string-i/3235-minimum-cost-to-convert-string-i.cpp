@@ -26,7 +26,6 @@ public:
             if(src == end) continue;
             if(dist[src][end]==INT_MAX) return -1;
             res+=dist[src][end];
-
         }
         return res;
         long long ans=0;
@@ -53,12 +52,9 @@ public:
                         pq.push({cost+it.second,it.first});
                     }
                 }
-
             }
             if(ispossible) return -1;
-
         }
-        return ans;
-        
+        return ans;  
     }
 };
