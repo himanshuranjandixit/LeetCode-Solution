@@ -6,10 +6,14 @@ public:
             adj[i][i+1]=1;
             adj[i+1][i]=1;
         }
-        if(abs(x-y)!=1){
-            adj[x-1][y-1]=1;
-            adj[y-1][x-1]=1;
-        }
+        adj[x-1][y-1] =min(adj[x-1][y-1],1);
+        adj[y-1][x-1] =min(adj[x-1][y-1],1);
+        // cout<<adj[x-1][y-1]<<endl;
+        // cout<<adj[y-1][x-1]<<endl;
+        // if(abs(x-y)!=1){
+        //     adj[x-1][y-1]=1;
+        //     adj[y-1][x-1]=1;
+        // }
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 for(int k=0;k<n;k++){
@@ -19,12 +23,6 @@ public:
             }
         }
         vector<int>ans(n,0);
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<n;j++){
-        //         cout<<i+1 << "to "<<j+1 << " "<< adj[i][j];
-        //         cout<< endl;
-        //     }
-        // }
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(i==j) continue;
