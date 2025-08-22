@@ -3,7 +3,7 @@ public:
     vector<int> bfs(vector<vector<pair<int,int>>>&adj,int node, int n ){
         vector<int>dist(n,INT_MAX);
         dist[node]=0;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq; //{distance,node}
         pq.push({0,node});
         while(!pq.empty()){
             int distance = pq.top().first;
