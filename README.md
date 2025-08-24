@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1522-stone-game-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1522-stone-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1361,6 +1363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
