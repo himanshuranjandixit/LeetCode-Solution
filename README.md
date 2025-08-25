@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
