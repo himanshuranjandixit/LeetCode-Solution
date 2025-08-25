@@ -15,7 +15,7 @@ public:
             string node = pq.top().second;
             pq.pop();
             if(node == target) return count;
-            for(int i=0;i<8;i++){
+            for(int i=0;i<4;i++){
                 for(int j=0;j<4;j++){
                     char org = node[j];
                     node[j]=v[(org-'0'+1)%10];
