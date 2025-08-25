@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
+| [0753-open-the-lock](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0833-bus-routes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0833-bus-routes) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0869-similar-string-groups) |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0869-similar-string-groups) |
@@ -742,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
