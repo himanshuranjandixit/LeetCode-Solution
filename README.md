@@ -667,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0433-minimum-genetic-mutation) |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0547-number-of-provinces) |
@@ -1397,6 +1400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
