@@ -23,16 +23,6 @@ public:
                 }
             }
         }
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<n;j++){
-        //         cout<<adj[i][j]<<"  ";
-        //     }
-        //     cout<<endl;
-        // }
-        // cout<<endl<<endl;
-        // for(int i=0;i<n;i++){
-        //     cout<<v[i]<<" ";
-        // }
         int mini=INT_MAX;
         int indx=-1;
         for(int i=0;i<n;i++){
@@ -42,11 +32,5 @@ public:
             }
         }
         return indx;
-
-
-
-
-
-        
     }
 };
