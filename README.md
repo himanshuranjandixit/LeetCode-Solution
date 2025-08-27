@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0514-freedom-trail](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0648-replace-words) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0514-freedom-trail](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0576-out-of-boundary-paths) |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0514-freedom-trail](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
