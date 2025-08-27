@@ -1,24 +1,34 @@
 class Solution {
 public:
-vector<vector<int>>dp;
-    int dfs(unordered_map<char,vector<int>>& adj, string& ring, string& key, int ringindx, int keyindx){
-        if(keyindx==key.size()) return 0;
-        if(dp[ringindx][keyindx]!=-1) return dp[ringindx][keyindx];
-        int ans = INT_MAX;
-        for(auto it : adj[key[keyindx]]){
-            int distance = abs(ringindx-it);
-            int rotation = min(distance,(int)ring.size()-distance);
-            ans=min(ans,rotation+1+dfs(adj,ring,key,it,keyindx+1));
-        }
-        return dp[ringindx][keyindx] = ans;
-
+    int countSteps(int ringIndex, int i, int n) {
+        int dist       = abs(i - ringIndex);
+        int wrapAround =  n - dist;
+        return min(dist, wrapAround);
     }
+    
     int findRotateSteps(string ring, string key) {
-        unordered_map<char,vector<int>>adj;
-        for(int i=0;i<ring.size();i++){
-            adj[ring[i]].push_back(i);
+        int n = ring.length();
+        int m = key.length();
+        unordered_map<char, vector<int>> adj; 
+        for (int i = 0; i < n; i++) {
+            char ch = ring[i];
+            adj[ch].push_back(i);
         }
-        dp.assign(ring.size()+1,vector<int>(key.size()+1,-1));
-        return dfs(adj,ring,key,0,0);
+        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+        pq.push({0, 0, 0});
+        set<pair<int, int>> visited;  
+        int totalSteps = 0;
+        while (!pq.empty()) {
+            vector<int> vec = pq.top();
+            pq.pop(); 
+            totalSteps    = vec[0];
+            int ringIndex = vec[1];
+            int keyIndex  = vec[2]; 
+            if(keyIndex == m) break;
+            if(visited.count({ringIndex, keyIndex})) continue;
+            visited.insert({ringIndex, keyIndex});    
+            for (int nextIndex : adj[key[keyIndex]]) pq.push({totalSteps+countSteps(ringIndex, nextIndex, n),nextIndex,keyIndex+1});  
+        }  
+        return totalSteps + m;
     }
 };
