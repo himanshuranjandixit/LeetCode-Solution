@@ -1,27 +1,46 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& stones, int indx, vector<int>& vis){
-        vis[indx]=1;
-        int row = stones[indx][0];
-        int col = stones[indx][1];
-        for(int i=0;i<stones.size();i++){
-            if((!vis[i]) && (stones[i][0]==row || stones[i][1]==col)){
-                dfs(stones,i,vis);
-            }
+    vector<int>parent,rank;
+    int find(int node){
+        if(node==parent[node]) return node;
+        return parent[node] = find(parent[node]);
+    }
+    void Union(int u, int v){
+        int ult_u = find(u);
+        int ult_v = find(v);
+        if(ult_u == ult_v) return ;
+        if(rank[ult_u]>rank[ult_v]){
+            parent[ult_v] = ult_u;
+        }
+        else if (rank[ult_u]<rank[ult_v]){
+            parent[ult_u]=parent[ult_v];
+        }
+        else{
+            parent[ult_u]=ult_v;
+            rank[ult_v]++;
         }
     }
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-        vector<int>vis(n,0);
-        int group=0;
+        parent.resize(n);
+        rank.resize(n);
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(stones,i,vis);
-                group++;
-            }
-
+            parent[i]=i;
+            rank[i]=1;
         }
-        return n-group;
+        for(int i=0;i<n;i++){
+            for(int j = i+1;j<n;j++){
+                if((stones[i][0] == stones[j][0]) || (stones[i][1] == stones[j][1])){
+                    Union(i,j);
+                }
+            }
+        }
+        int groups = 0;
+        for(int i=0;i<n;i++){
+            if(parent[i]==i) groups++;
+        }
+        return n- groups;
+
         
     }
 };
