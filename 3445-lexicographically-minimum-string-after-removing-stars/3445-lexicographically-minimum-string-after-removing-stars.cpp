@@ -22,28 +22,20 @@ public:
         // }
         // return ans;
 
-        unordered_map<int,int>indx;
-        vector<stack<int>>v(26);
+        priority_queue<pair<char,int>,vector<pair<char,int>>,greater<>>pq;
         for(int i=0;i<s.size();i++){
-            char ch = s[i];
-            if(ch=='*'){
-                for(int i=0;i<26;i++){
-                    if(!v[i].empty()){
-                        int index = v[i].top();
-                        v[i].pop();
-                        indx[index]=0;
-                        break;
-                    }
-                }
+            if(s[i]=='*'){
+                s[-pq.top().second]='*';
+                pq.pop();
             }
             else{
-                indx[i]=1;
-                v[ch-'a'].push(i);
+                pq.push({s[i],-i});
             }
         }
         string ans="";
-        for(int i=0;i<s.size();i++){
-            if(indx[i]) ans+=s[i];
+        for(int i =0;i<s.size();i++){
+            if(s[i]=='*') continue;
+            ans+=s[i];
         }
         return ans;
 
