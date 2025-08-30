@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-bus-routes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0869-similar-string-groups) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1448-maximum-69-number) |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1127-last-stone-weight](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1018,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
