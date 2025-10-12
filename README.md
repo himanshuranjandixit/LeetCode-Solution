@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -964,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -1394,6 +1397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -1501,6 +1505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -1556,6 +1561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Game Theory
 |  |
 | ------- |
