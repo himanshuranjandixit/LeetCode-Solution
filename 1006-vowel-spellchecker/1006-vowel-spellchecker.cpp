@@ -1,64 +1,39 @@
 class Solution {
-    set<string> direct_check;
-    map<string, int> capitalization;
-    map<string, int> vowelError;
-    vector<string> ans;
-
 public:
-    void ToLower(string &s) {
-        for(char &ch : s) {
-            ch = tolower(ch);
+    vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
+        unordered_set<string>exact(wordlist.begin(), wordlist.end());
+        unordered_map<string,string>lowerMap; 
+        unordered_map<string,string>vowelMap; 
+
+        auto maskVowels = [](const string &s){
+            string t = s;
+            for(char &c : t) if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'|| c=='A'||c=='E'||c=='I'||c=='O'||c=='U') c='*';
+            return t;
+        };
+        for(auto &w : wordlist){
+            string lw = w;
+            transform(lw.begin(), lw.end(), lw.begin(),::tolower);
+            if(!lowerMap.count(lw)) lowerMap[lw] = w;
+            string masked = maskVowels(lw);
+            if(!vowelMap.count(masked)) vowelMap[masked] = w;
         }
-    }
-    bool isVowel(char &ch) {
-        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
-            return true;
-        return false;
-    }
- 
-    void vowelPlaceholder(string &s) {
-        for(char &ch : s) {
-            if(isVowel(ch)) {
-                ch = '#';
-            }
-        }
-    }
- 
-    vector<string> spellchecker(vector<string>& wordList, vector<string>& queries) {
-        int n = wordList.size();
-        int q = queries.size();
 
-        for(int i = 0; i < n; i++) {
-            string s = wordList[i];
-            direct_check.insert(s);
-
-            ToLower(s);
-
-            if(capitalization.find(s) == capitalization.end())
-                capitalization[s] = i;
-
-            vowelPlaceholder(s);
-            if(vowelError.find(s) == vowelError.end())
-                vowelError[s] = i;
-        }
-        for(string &s : queries) {
-            if(direct_check.find(s) != direct_check.end()) {
-                ans.push_back(s);
+        vector<string> ans;
+        for(auto &q : queries){
+            if(exact.count(q)){
+                ans.push_back(q); 
                 continue;
             }
-            ToLower(s);
-            if(capitalization.find(s) != capitalization.end()) {
-                ans.push_back(wordList[capitalization[s]]);
+            string lq = q;
+            transform(lq.begin(), lq.end(), lq.begin(),::tolower);
+            if(lowerMap.count(lq)){
+                ans.push_back(lowerMap[lq]); 
                 continue;
             }
-
-            vowelPlaceholder(s);
-            if(vowelError.find(s) != vowelError.end()) {
-                ans.push_back(wordList[vowelError[s]]);
-            }
-            else ans.push_back("");
+            string masked = maskVowels(lq);
+            if(vowelMap.count(masked)) ans.push_back(vowelMap[masked]); 
+            else ans.push_back(""); 
         }
         return ans;
-
     }
 };
