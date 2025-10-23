@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1586,6 +1588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1620,6 +1623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
