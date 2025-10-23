@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3194-find-words-containing-character) |
@@ -1089,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
