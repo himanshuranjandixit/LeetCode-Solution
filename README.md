@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1154,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
@@ -1334,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
