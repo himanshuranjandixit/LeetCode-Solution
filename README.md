@@ -956,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1685-stone-game-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
