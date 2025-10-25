@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
@@ -1011,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1637,5 +1640,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
