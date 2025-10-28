@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -942,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0679-24-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0826-soup-servings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
@@ -1397,6 +1399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0491-non-decreasing-subsequences) |
+| [0795-k-th-symbol-in-grammar](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
