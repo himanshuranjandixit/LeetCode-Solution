@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
@@ -1127,6 +1129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
