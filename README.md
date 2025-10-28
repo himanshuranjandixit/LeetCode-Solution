@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0498-diagonal-traverse](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -962,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1788-stone-game-vi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1808-stone-game-vii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1443,6 +1447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Stack
 |  |
