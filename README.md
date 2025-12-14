@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2176-parallel-courses-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -979,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
