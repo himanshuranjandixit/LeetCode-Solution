@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
@@ -1107,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
@@ -1218,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
@@ -1350,6 +1354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
