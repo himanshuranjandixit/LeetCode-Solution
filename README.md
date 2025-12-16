@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1006-vowel-spellchecker](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1036-rotting-oranges) |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-soup-servings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0909-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1118,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
+| [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
