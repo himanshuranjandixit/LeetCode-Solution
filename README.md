@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -963,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0279-perfect-squares) |
