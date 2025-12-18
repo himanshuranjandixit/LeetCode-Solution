@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
@@ -1013,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2206-detonate-the-maximum-bombs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -1588,6 +1591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
