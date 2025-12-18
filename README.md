@@ -649,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3100-water-bottles-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3100-water-bottles-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -1023,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
+| [3100-water-bottles-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3100-water-bottles-ii) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
