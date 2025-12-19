@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1200,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
