@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1006-vowel-spellchecker](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0869-similar-string-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1006-vowel-spellchecker](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0891-score-after-flipping-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0891-score-after-flipping-matrix) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1448-maximum-69-number) |
