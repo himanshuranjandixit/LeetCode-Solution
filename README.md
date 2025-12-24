@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3194-find-words-containing-character](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3408-design-task-manager](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3408-design-task-manager) |
@@ -580,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1191,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1284,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
@@ -1432,6 +1438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
