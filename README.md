@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3376-longest-common-suffix-queries) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3429-special-array-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1211,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Data Stream
