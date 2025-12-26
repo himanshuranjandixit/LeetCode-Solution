@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
@@ -1231,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
