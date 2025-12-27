@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2353-design-a-food-rating-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2353-design-a-food-rating-system) |
+| [2402-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2402-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -749,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2353-design-a-food-rating-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2353-design-a-food-rating-system) |
 | [2379-maximum-total-importance-of-roads](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
+| [2402-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
@@ -1198,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2379-maximum-total-importance-of-roads](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2402-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
