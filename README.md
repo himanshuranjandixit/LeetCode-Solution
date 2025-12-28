@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
@@ -1469,6 +1472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1656-count-good-triplets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
