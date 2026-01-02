@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1006-vowel-spellchecker](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
 | [0931-maximum-frequency-stack](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1006-vowel-spellchecker) |
