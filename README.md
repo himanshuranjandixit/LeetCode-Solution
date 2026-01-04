@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1058,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
