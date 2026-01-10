@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0806-domino-and-tromino-tiling) |
