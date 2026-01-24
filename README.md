@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-minimum-number-of-people-to-teach](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1175,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2472-build-a-matrix-with-conditions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
