@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
@@ -1224,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1962-single-threaded-cpu) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2092-find-all-people-with-secret) |
 | [2118-maximum-earnings-from-taxi](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1638,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
