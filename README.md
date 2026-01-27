@@ -786,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3408-design-task-manager](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3408-design-task-manager) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1694,6 +1695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1820,4 +1822,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
