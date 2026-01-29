@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1692,6 +1694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3386-find-edges-in-shortest-paths) |
@@ -1825,5 +1828,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
