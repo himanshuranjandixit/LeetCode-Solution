@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -782,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1651,6 +1654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
