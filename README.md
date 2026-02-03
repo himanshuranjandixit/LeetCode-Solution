@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
