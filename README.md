@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3376-longest-common-suffix-queries) |
@@ -1262,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3321-type-of-triangle) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
@@ -1288,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1508,6 +1511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
@@ -1657,6 +1661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
