@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1290,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
