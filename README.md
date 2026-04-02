@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3376-longest-common-suffix-queries) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2472-build-a-matrix-with-conditions](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
