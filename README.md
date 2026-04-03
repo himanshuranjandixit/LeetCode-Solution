@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1288,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Data Stream
 |  |
@@ -1542,6 +1545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
