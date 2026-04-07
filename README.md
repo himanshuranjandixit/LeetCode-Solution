@@ -731,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -766,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1912-design-movie-rental-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1912-design-movie-rental-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2069-walking-robot-simulation-ii) |
 | [2353-design-a-food-rating-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2353-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
