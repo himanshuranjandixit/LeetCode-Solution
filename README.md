@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1240-stone-game-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1418-fair-distribution-of-cookies) |
