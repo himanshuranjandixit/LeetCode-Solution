@@ -1,11 +1,13 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int mini=INT_MAX;
-        for(auto it :nums){
-            mini=min(it,mini);
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]>=nums[i-1]) continue;
+            else return nums[i];
+
         }
-        return mini;
+        return nums[0];
+
         
     }
 };
