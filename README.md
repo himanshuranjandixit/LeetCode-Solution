@@ -797,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
@@ -1615,6 +1616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -1805,6 +1807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1873,6 +1876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Geometry
@@ -1921,4 +1925,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
