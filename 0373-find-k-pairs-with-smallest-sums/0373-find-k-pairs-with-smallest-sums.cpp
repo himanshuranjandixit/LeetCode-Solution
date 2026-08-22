@@ -1,28 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
-        vector<vector<int>>ans;
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<>>pq;
-        int sum = nums1[0] + nums2[0];
-        pq.push({sum,{0,0}});
-        set<pair<int,int>>st;
-        st.insert({0,0});
-        while(k--&& !pq.empty()){
-            int sum = pq.top().first;
-            int i = pq.top().second.first;
-            int j = pq.top().second.second;
-            cout<<i<<" "<<j<<" "<<sum<<endl;
-            pq.pop();
-            ans.push_back({nums1[i],nums2[j]});
-            if(j+1<nums2.size() && !st.count({i,j+1})){
-                pq.push({nums1[i] + nums2[j+1],{i,j+1}});
-                st.insert({i,j+1});
-            }
-            if(i+1<nums1.size() && !st.count({i+1,j})){
-                pq.push({nums1[i+1] + nums2[j],{i+1,j}});
-                st.insert({i+1,j});
+        priority_queue<pair<int,pair<int,int>>>pq;
+        for(int i=0;i<nums1.size();i++){
+            for(int j=0;j<nums2.size();j++){
+                if(pq.size()==k){
+                    if(nums1[i]+nums2[j]>=pq.top().first)break;
+                    else{
+                        pq.pop();
+                    }
+                }
+                pq.push(make_pair(nums1[i]+nums2[j],make_pair(nums1[i],nums2[j])));
             }
         }
+        vector<vector<int>>ans;
+        while(k--){
+            auto it = pq.top();
+            pq.pop();
+            vector<int>temp;
+            temp.push_back(it.second.first);
+            temp.push_back(it.second.second);
+            ans.push_back(temp);
+        }
         return ans;
+        
     }
 };
