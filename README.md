@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -847,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1752,6 +1755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/0732-my-calendar-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
