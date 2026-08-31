@@ -1,23 +1,36 @@
 class Solution {
 public:
-    int M = 1e9+7;
+   int m = 1e9 +7;
     int maxSumRangeQuery(vector<int>& nums, vector<vector<int>>& requests) {
         int n = nums.size();
-        vector<int>diff(n);
-        for(auto it : requests){
-            diff[it[0]] +=1;
-            if(it[1]+1 != n) diff[it[1]+1] -=1;
+        vector<int>v(n+1);
+        for(auto it:requests){
+            v[it[0]] +=1;
+            v[it[1]+1]-=1;
         }
-        for(int i=1;i<n;i++){
-            diff[i] += diff[i-1];
+        // for(int i=0;i<n+1;i++) cout<<v[i]<<" ";
+        // cout<<endl;
+        // cout<<v[0]<<" ";
+        vector<pair<int,int>>vp;
+        vp.push_back({v[0],0});
+        for(int i=1;i<n+1;i++){
+            v[i]+=v[i-1];
+            vp.push_back({v[i],i});
+            // cout<<v[i]<<" ";
         }
-        sort(diff.begin(),diff.end());
+        // cout<<endl;
+        sort(vp.begin(),vp.end());
         sort(nums.begin(),nums.end());
-        int ans = 0;
-        for(int i=0;i<n;i++){
-            ans = (ans + 1LL*diff[i]*nums[i])%M;
+        long long ans=0;
+        for(int i=n;i>0;i--){
+            // cout<<vp[i].first<<" "<<vp[i].second<<endl;
+            int idx = vp[i].second;
+            int fact = vp[i].first;
+            ans = (ans%m + (nums[i-1]*1LL*fact)%m)%m;
         }
-        return ans;
+        return (int)ans;
+
+
         
     }
 };
