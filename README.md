@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
