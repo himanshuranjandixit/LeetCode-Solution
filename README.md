@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1318,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2505-number-of-good-paths) |
 | [2636-maximum-subsequence-score](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1744,6 +1747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2747-count-zero-request-servers](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/himanshuranjandixit/LeetCode-Solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
